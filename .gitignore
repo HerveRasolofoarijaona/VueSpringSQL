@@ -1,0 +1,41 @@
+# IntelliJ IDEA
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+build/
+nbactions.xml
+nb-configuration.xml
+
+# Maven
+/target/
+pom.xml.*
+src/main/resources/application.properties
+
+# Spring Boot
+/bin/
+/target/
+*.log
+
+# Vue.js
+/dist/
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE-specific files
+*.log
+*.log.*
+*.swp
+.DS_Store
